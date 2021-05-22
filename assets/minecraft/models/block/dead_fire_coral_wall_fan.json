@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/coral_wall_fan",
+  "parent": "minecraft:block/cross",
   "textures": {
-    "fan": "minecraft:block/dead_fire_coral_fan"
+    "cross": "minecraft:block/crystals/small"
   }
 }

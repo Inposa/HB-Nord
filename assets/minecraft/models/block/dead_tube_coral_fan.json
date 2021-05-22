@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "minecraft:block/crystals/small"
+    "cross": "minecraft:block/crystals/extra_large"
   }
 }
